@@ -1,5 +1,5 @@
 package com.jongewaard.dev.androidswipetoshowbutton.Helper;
 
-interface MyButtonClickListener {
+public interface MyButtonClickListener {
     void onClick(int pos);
 }
